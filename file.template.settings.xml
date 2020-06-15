@@ -1,0 +1,13 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="flow-model.js" reformat="true" live-template-enabled="true" />
+      <template name="index.js.js" reformat="true" live-template-enabled="true" />
+      <template name="react class component.jsx" reformat="false" live-template-enabled="false" />
+      <template name="react func component.jsx" reformat="false" live-template-enabled="false" />
+      <template name="typetest༏ext༏.typetest.js" reformat="false" live-template-enabled="false" />
+      <template name="vue component index.js" reformat="true" live-template-enabled="true" />
+      <template name="vue-story༏ext༏.stories.js" reformat="true" live-template-enabled="true" />
+    </default_templates>
+  </component>
+</application>
