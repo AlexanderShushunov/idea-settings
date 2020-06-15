@@ -18,6 +18,7 @@
       <mapping pattern="phone-field" type="PLAIN_TEXT" />
       <mapping pattern="index" type="PLAIN_TEXT" />
       <mapping pattern="handbook-form-lable" type="PLAIN_TEXT" />
+      <mapping pattern="id-generator" type="PLAIN_TEXT" />
       <mapping pattern="passwd" type="PLAIN_TEXT" />
       <mapping pattern="redux-type" type="PLAIN_TEXT" />
       <mapping pattern="with-country" type="PLAIN_TEXT" />
@@ -25,10 +26,9 @@
       <mapping pattern="buildVariables" type="PLAIN_TEXT" />
       <mapping pattern="some-popup" type="PLAIN_TEXT" />
       <mapping pattern="ammount-with-currency" type="PLAIN_TEXT" />
-      <mapping pattern="Seo" type="PLAIN_TEXT" />
       <mapping pattern="formatByKey" type="PLAIN_TEXT" />
+      <mapping pattern="nullable-to-optional" type="PLAIN_TEXT" />
       <mapping pattern="result-reservation-components" type="PLAIN_TEXT" />
-      <mapping pattern="prepareLabel" type="PLAIN_TEXT" />
       <mapping pattern="document-rotes" type="PLAIN_TEXT" />
       <mapping pattern="currency-input-field" type="PLAIN_TEXT" />
       <mapping pattern="utils" type="PLAIN_TEXT" />
@@ -103,14 +103,14 @@
       <mapping pattern="$" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="segment-type" type="PLAIN_TEXT" />
-      <mapping pattern="nullable-to-optional" type="PLAIN_TEXT" />
+      <mapping pattern="Seo" type="PLAIN_TEXT" />
       <mapping pattern="FunctionalGettersInvokeOnEveryUpdate" type="PLAIN_TEXT" />
       <mapping pattern="safeSetState" type="PLAIN_TEXT" />
       <mapping pattern="calcDerivatives" type="PLAIN_TEXT" />
       <mapping pattern="invoke-later" type="PLAIN_TEXT" />
       <mapping pattern="component-generator" type="PLAIN_TEXT" />
       <mapping pattern="rootDispatch" type="PLAIN_TEXT" />
-      <mapping pattern="id-generator" type="PLAIN_TEXT" />
+      <mapping pattern="prepareLabel" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="hds" type="PLAIN_TEXT" />
       <mapping ext="path" type="PLAIN_TEXT" />
