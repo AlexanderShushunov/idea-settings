@@ -2,6 +2,10 @@
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
+  <action id="EmojiAndSymbols" />
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="shift alt e" />
+  </action>
   <action id="TogglePresentationMode">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
