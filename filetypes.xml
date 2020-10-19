@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="createRowAlignmenter" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
+      <mapping ext="gitattributes" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
