@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jade" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -13,7 +14,7 @@
     <mask>*.java</mask>
     <mask>*.spec.js</mask>
     <mask>*.scss</mask>
-    <mask>*.jade</mask>
     <mask>*.js</mask>
+    <mask>*.jade</mask>
   </component>
 </application>
