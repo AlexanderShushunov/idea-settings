@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="sticky-css" type="PLAIN_TEXT" />
       <mapping pattern="createRowAlignmenter" type="PLAIN_TEXT" />
       <mapping pattern="static" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
